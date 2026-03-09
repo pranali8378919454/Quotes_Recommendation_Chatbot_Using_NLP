@@ -1,0 +1,34 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_motivation
+  - ask_funny
+  - ask_life
+
+responses:
+
+  utter_greet:
+    - text: "Hello! I am your Quotes Recommendation Bot."
+    - text: "Hi there! Ask me for motivational, funny, or life quotes."
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great day."
+    - text: "See you later!"
+
+  utter_motivation:
+    - text: "Believe in yourself and all that you are."
+    - text: "Push yourself because no one else is going to do it for you."
+
+  utter_funny:
+    - text: "Life is short. Smile while you still have teeth."
+    - text: "I'm not lazy. I'm on energy-saving mode."
+
+  utter_life:
+    - text: "Life is what happens when you're busy making other plans."
+    - text: "Enjoy the little things in life."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

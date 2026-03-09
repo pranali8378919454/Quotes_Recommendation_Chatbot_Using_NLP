@@ -1,0 +1,13 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohrTQvrzK+sDS/JLW2NhYAmJ0eKw==": "utter_funny_quote",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohrTQvrzK+sDS/JLWWgEmlJSWpRfHIGvCbFgsAZUM8iQ==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODElvrA0vyS1tjYWAFvFHTM=": "utter_sad_quote",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODElvrA0vyS1loA5pSUlqUXxCOX4TIoFAOlZOaE=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohM6+4ILMoEaQmMSe+sDS/JLW2NhYAl1cheA==": "utter_inspirational_quote",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohM6+4ILMoEaQmMSe+sDS/JLWWgImlJSWpRfHYNBJneiwAn7VGcA==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohN78ksywRpCQxJ76wNL8ktbY2FgB2ZSES": "utter_motivational_quote",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohN78ksywRpCQxJ76wNL8ktZaAgaUlJalF8Vj0EWV2LADOM0U+": "action_listen"
+  }
+}

@@ -1,0 +1,39 @@
+version: "3.1"
+
+nlu:
+
+- intent: greet
+  examples: |
+    - hi
+    - hello
+    - hey
+    - good morning
+    - good evening
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you
+    - see you later
+
+- intent: ask_motivation
+  examples: |
+    - give me motivation
+    - motivational quote
+    - inspire me
+    - tell me something motivating
+    - motivation please
+
+- intent: ask_funny
+  examples: |
+    - tell me a funny quote
+    - make me laugh
+    - funny quote
+    - something funny
+
+- intent: ask_life
+  examples: |
+    - life quote
+    - tell me about life
+    - quote about life
